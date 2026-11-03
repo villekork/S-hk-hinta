@@ -1,0 +1,1 @@
+{"name":"Halpa lataus","short_name":"Halpa lataus","description":"Suomen edullisten sähköauton latauspaikkojen kartta","start_url":"./","scope":"./","display":"standalone","background_color":"#eef2f7","theme_color":"#075985","lang":"fi","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
